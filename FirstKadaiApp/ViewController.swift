@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         // ->背景色を空色に変更する
-        self.view.backgroundColor = UIColor.cyanColor()
+        self.view.backgroundColor = UIColor.cyan
     }
 
     override func didReceiveMemoryWarning() {

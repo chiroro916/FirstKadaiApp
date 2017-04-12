@@ -22,9 +22,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="はじめてのアプリ" textAlignment="right" lineBreakMode="tailTruncation" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pux-Y4-u7z">
-                                <rect key="frame" x="66" y="82" width="243" height="51"/>
+                                <rect key="frame" x="66" y="82" width="247" height="77"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="30"/>
                                 <color key="textColor" red="1" green="0.36496861339944098" blue="0.50955866289159346" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="highlightedColor" cocoaTouchSystemColor="darkTextColor"/>
                             </label>
